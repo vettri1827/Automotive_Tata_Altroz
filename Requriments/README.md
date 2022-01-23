@@ -57,6 +57,9 @@ HLR2	|Semi-Automatic control| Operated automatically or manually	|	Wiper Control
 HLR3	|Speed control |High,Medium,Low|	Wiper Control|
 HLR4 |Dry mode |front and back wiper system| Wiper Control|
 
+## Low Level Requirements
+Number| Requirements|	Description|	Features|	
+|--------------------|:---------:|:--------:|:-----:|
 LLR1	|Lenght of wipers| Depends on the model of the car |	Wiper Control | 
 LLR2	| Direction of wipers  | Same and Opposite Directions(180 degrees) |	Wiper Control | 
 
