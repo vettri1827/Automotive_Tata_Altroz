@@ -50,4 +50,14 @@ Radar is a electromagnetic sensor used for detecting, locating, tracking, and re
 
 ![11](https://user-images.githubusercontent.com/54714219/150665688-daba7717-9e8e-4486-8ba6-fe4450bcc293.jpg)
 
+Number |Requirements|	Description	|Features |
+|-----------|------------|:---------:|:---------:|
+HLR1 |	Rain and Humidity sensor| checks the intensity of rain and humidity| Wiper Control|	
+HLR2	|Semi-Automatic control| Operated automatically or manually	|	Wiper Control|
+HLR3	|Speed control |High,Medium,Low|	Wiper Control|
+HLR4 |Dry mode |front and back wiper system| Wiper Control|
+
+LLR1	|Lenght of wipers| Depends on the model of the car |	Wiper Control | 
+LLR2	| Direction of wipers  | Same and Opposite Directions(180 degrees) |	Wiper Control | 
+
 
