@@ -5,17 +5,17 @@ Accurate, stable control of large capacitive load for electrochromic auto dimmin
 
 ## FEATURES
 ### BLIND SPOT DETECTION 										
-Blind spot detection (BSD) was developed by Volvo a decade ago. BSD tracks traffic just behind you as well as what’s coming alongside. The alert stays active until the car in the adjacent lane is in front of you, or at least directly alongside and you’d have to be blind not to see it. It doesn’t care if you are in your lane or have drifted a bit into the next and are at risk of sideswiping another car. BSD uses ultrasonic or radar sensors on the side and rear of the car.
+Blind Spot Detection tracks traffic just behind you. The alert stays active until the car in the adjacent lane is in front of you, or at least directly alongside and you’d have to be blind not to see it. Blind Spot Detection uses ultrasonic or radar sensors on the side and rear of the car.
 ### DEFOGGERS	
-These features are used to defog the rear window, and to remove raindrops, dew and frost from the outside rear view mirrors. The defoggers will automatically turn off after 15 to 60 minutes. The operation time changes according to the ambient temperature and vehicle speed.
+Defoggers are used to defog the rear window, and to remove raindrops, dew and frost from the outside rear view mirrors. The operation time changes according to the ambient temperature and vehicle speed, It may be 10 minutes to 25 minutes.
 
 ## COMPONENTS
 ### DC MOTOR
-Each rear-view mirror has two DC motors. One DC motor operates the up/down function while the other DC motor operates the left/right function. Both rocker switches inside the power mirror switch are constantly connected to the vehicle's electrical ground circuit with the switch at rest.
+Each rear-view mirror has two DC motors. One DC motor operates the up/down function while the other DC motor operates the left/right function. Both switches inside the power mirror switch are constantly connected to the vehicle's electrical ground circuit with the switch at rest.
 ### INFRARED SENSOR
-An infrared sensor (IR sensor) is a radiation-sensitive optoelectronic component with a spectral sensitivity in the infrared wavelength range 780 nm … 50 µm. IR sensors are now widely used in motion detectors, which are used in building services to switch on lamps or in alarm systems to detect unwelcome guests(In this case, Cars).
+An infrared sensor (IR sensor) is a radiation-sensitive optoelectronic component with a spectral sensitivity in the infrared wavelength range 780 nm … 50 µm. IR sensors are now widely used in motion detectors, which are used in building services to switch on lamps or in alarm system.
 ### RADAR
-Radar is a electromagnetic sensor used for detecting, locating, tracking, and recognizing objects of various kinds at considerable distances. ... The targets may be aircraft, ships, spacecraft, automotive vehicles, and astronomical bodies, or even birds, insects, and rain.
+Radar is a electromagnetic sensor used for detecting, locating, tracking, and recognizing objects of various kinds at considerable distances. 
 
 
 ## REQUIREMENTS
@@ -24,7 +24,7 @@ Radar is a electromagnetic sensor used for detecting, locating, tracking, and re
 
 |   | TITLE  | MODULES  |  DESCRIPTION |
 |---|---|---|---|
-| SYS_1 | Requirments | DC MOTOR  | The Side Rear View Mirror should Open when the Engine Ignites.|
+| SYS_1 | Requirments | DC MOTOR  | The Side Rear View Mirror should Open when the Engine Started.|
 | SYS_2 | Requirments | DIGITAL CAMERA | The Main Camera Present in the Mirror gives the precise view of the mirror in an LCD Display inside the car when the weather outside is not good.|
 | SYS_3 | Requirments | DC MOTOR  | When the Engine Turns off, the Mirror Should Close Automatically.|
 
