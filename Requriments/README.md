@@ -64,5 +64,17 @@ Number| Requirements|	Description|	Features|
 |--------------------|:---------:|:--------:|:-----:|
 LLR1	|Lenght of wipers| Depends on the model of the car |	Wiper Control | 
 LLR2	| Direction of wipers  | Same and Opposite Directions(180 degrees) |	Wiper Control | 
+## BLOCK DIAGRAM
+
+![WhatsApp Image 2022-01-24 at 9 05 13 AM](https://user-images.githubusercontent.com/94425272/150718005-332b73a8-8548-44ef-8eaa-b549370522be.jpeg)
+
+
+![WhatsApp Image 2022-01-24 at 9 04 31 AM](https://user-images.githubusercontent.com/94425272/150718036-74384a19-ac34-4595-96db-6420ccaf77b5.jpeg)
+
+## FLOW CHART
+
+![WhatsApp Image 2022-01-24 at 9 06 37 AM](https://user-images.githubusercontent.com/94425272/150718176-306094bf-0418-42d8-9156-d5a7e6ee0d9b.jpeg)
+
+
 
 
