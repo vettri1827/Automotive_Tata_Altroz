@@ -50,6 +50,8 @@ Radar is a electromagnetic sensor used for detecting, locating, tracking, and re
 
 ![11](https://user-images.githubusercontent.com/54714219/150665688-daba7717-9e8e-4486-8ba6-fe4450bcc293.jpg)
 
+## WIPER CONTROL
+
 Number |Requirements|	Description	|Features |
 |-----------|------------|:---------:|:---------:|
 HLR1 |	Rain and Humidity sensor| checks the intensity of rain and humidity| Wiper Control|	
