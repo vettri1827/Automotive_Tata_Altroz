@@ -76,5 +76,33 @@ LLR2	| Direction of wipers  | Same and Opposite Directions(180 degrees) |	Wiper 
 ![WhatsApp Image 2022-01-24 at 9 06 37 AM](https://user-images.githubusercontent.com/94425272/150718176-306094bf-0418-42d8-9156-d5a7e6ee0d9b.jpeg)
 
 
+## Anti-lock Braking System 
+
+### INTRODUCTION
+
+ABS brake pressure in such a way that the wheels do not lock when you brake. This allows you to continue steering the vehicle when braking.
+ABS helping you maintain directional control.
+
+## Structural Diagram
+
+![structure](https://user-images.githubusercontent.com/94296796/152000876-324e66a6-6aec-4ea2-af02-b5d0db23fa14.png)
+
+### REQUIREMENTS
+
+### HIGH LEVEL REQUIREMNETS
+
+HLR01 - The ABS warning lamp in the instrument cluster lights up when the ignition is switched ON. It goes out when the engine is running.
+HLR02 - If it detects that one wheel starts to spin irregularly, it will cut off power from your engine until it establishes stable traction again. Issue with your traction control light can cause your ABS light to come ON.
+
+### LOW LEVEL REQUIREMENTS
+
+LLR1 - ABS light ON if it found slow leak or the fluid is able to evaporate off.
+LLR2 - If a speed sensor is dirty or stops working, then it can’t relay this information accurately.it will usually disable your ABS .
+
+## Block Diagram
+
+![block dia](https://user-images.githubusercontent.com/94296796/152001686-23f786d4-1929-4d9a-9e32-9702d4b9adb8.png)
+
+
 
 
